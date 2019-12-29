@@ -5,33 +5,52 @@ tags: [about, Jekyll, theme, moon]
 date: 2016-03-21
 comments: false
 ---
-    
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+![나재흠 이력서](https://user-images.githubusercontent.com/18138559/71558351-ad0c9c80-2a95-11ea-8bcb-ea7080c5be06.jpg)
 
-## Preview
+## 설계를 통해 체계적으로 개발하는 프로그래머
+2014년 고등학교 2학년 때 처음으로 C언어를 공부하고 게임을 개발하고 싶어서 수학 게임을 기획하고 개발을 시작하였습니다. 
+게임엔진을 사용하지 않고 모든 기능을 C언어와 WinAPI를 이용하여 직접 개발하고자 하였습니다. 
+처음에는 순조롭게 진행이 되는가 싶었으나 개발이 진행 될 수록 새로운 기능을 추가할 때 마다 만들어둔 기능을 수정해야하는 경우가 발생하였고 전체적인 흐름을 파악하기가 어려워졌습니다. 
+새로운 기능을 추가하기 위해 이전 코드들을 다시 읽어보는 경우가 많아졌습니다.  결국 2년이라는 많은 시간을 투자했지만 투자한시간에 비해 원하는 결과물을 만들어 낼 수가 없었습니다. 
+이 프로젝트를 진행하면서 프로그래밍을 시작하기전에는 설계를 통해 기능을 나눠야 한다는 것을 깨달았습니다. 
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+대학교에 들어와서 네트워킹 프로그래밍 과제로 ‘Welcome Back to the Dungeon’이라는 보드게임을 프로그램으로 개발할 기회가 생겼습니다. 
+이전의 실수를 반복하지 않고자 보드게임의 규칙을 보면서 구현해야할 기능을 나열했습니다. 
+그 다음 각 기능을 서버에서 구현할지 클라이언트에서 구현할지 분류를 하여 다이어그램을 작성한 후 체계적으로 개발을 하였고 프로젝트를 성공적으로 마칠 수 있었습니다.
+위의 두가지 프로젝트를 통해 프로그래밍 하기전에 설계를 잘하는 것이 얼마나 중요한지 깨달을 수 있었습니다. 
+앞으로도 개발하기전에 설계를 잘하고 이를 문서화를 시켜 개발속도, 일정관리 등을 효율적으로 진행할 것입니다.
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+## 발전하는 프로그래머
+저는 누군가 알려주는 지식을 습득하는것도 잘하지만, 프로젝트를 수행함에 있어서 필요한 지식을 스스로 습득하는 것을 잘합니다.
+고등학교 때는 게임 프로그래머가 되기 위해서 스스로 C언어 WinAPI를 책을 보면서 공부했습니다. 
+학교가 기숙사 고등학교였고 전자기기를 금지하고 있었기에 책을 보고 공부하면서 노트에 코드를 적고 컴퓨터를 사용 할 수 있을 때 코드를 컴퓨터에서 실행해가면서 공부했습니다. 
+C언어에서 포인터 부분을 공부할 때 아무리 읽어도 이해가 가지 않는 부분이 있어서 외박 때 인터넷으로 찾아보았더니 책이 잘못 적혀 있던 오류도 발견했었습니다. 
+열악한 환경이었지만 열정적으로 공부한 결과 고등학교 3학년 때 정보 올림피아드에서 지역 예선 1위 본선 3위를 수상 할 수 있었습니다.
+대학교 때는 컴퓨터과학과에 진학하여 공부하고 싶었던 내용들을 익히면서 좋은 성적을 거두었고 정수장학회의  장학생이 되었습니다. 
+또한 ACMICPC에 출전하여 지역 1위 Regional까지 가보는 경험을 해보았습니다. 
+또한 컴퓨터 쪽 지식만 공부한 것이 아닌 게임 개발에 필요한 수학, 역학 지식등을 수학과 물리학과 수업들을 수강하여 A0 성적을 받았습니다. 
+이렇게 열심히 매학기를 공부하다보니 3학년 2학기 까지 수강하였지만 졸업학점 130학점 중 131 학점을 채우게 되었습니다.
 
-## Getting Started
+현재는 산업체를 진행하면서 실무에서 익힐 수 있는 개발 지식을 익히고자 노력하고 있습니다. 
+이외에도 모든 알고리즘 대회를 C 언어로 나가서 모든 기능을 구현하여 사용했었지만 시간이라는 한계점을 느끼게 되었고 이를 극복하기 위해 C++ STL을 공부하고 있습니다.
+이러한 저의 학습능력과 프로그래밍 지식은 게임 개발하는데 있어 많은 도움이 될것이라고 자부합니다.
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+
+## 관심있는 기술
+* Machine Learning , Deep Learning
+
+	3학년 2학기때 자연어처리 수업을 들으면서 좀 더 현실적인 게임을 만들기 위해서는 AI 공부는 필수라고 생각하게 되었습니다. 
+현재 진행중인 프로젝트가 끝나게 된다면 이쪽과 관련된 공부를 진행하여 좀 더 발전된 NPC Ai, 나만의 Ai 펫, 온라인 게임 시스템 관리 Ai등을 만들어 보고 싶습니다.
+
+* DirectX, OpenGL와 같은 그래픽 라이브러리
+
+	좀 더 나은 게임을 만들기 위해서는 최적화, 더 좋은 그래픽 표현 등을 위해 그래픽 라이브러리를 공부할 필요가 있다고 생각되었습니다. 
+차후에 그래픽 라이브러리를 이용하여 저만의 게임엔진을 만들어 볼 것입니다.
+
+
+## 게임 실력
+제 게임실력은 다른 상위권 유저들에 비해서 월등하지 않습니다. 
+하지만 제가 대부분의 게임에서 상위권을 유지 할 수 있는 것은 더 나은 플레이를 위해서 게임을 연구하고 공부하기 때문입니다. 
+게임을 하면서 제 자신의 부족한 점을 생각해보고 게임을 더 잘하기 위해선 어떻게 해야하는지 찾아보고 실천해봅니다. 
+이러한 저의 게임 플레이 방법은 게임에 대한 이해도를 높이고 이는 개발하는데 있어 더욱 좋은 의견을 낼 수 있을거라 생각합니다.
