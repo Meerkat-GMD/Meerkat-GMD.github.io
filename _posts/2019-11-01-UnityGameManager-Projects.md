@@ -67,7 +67,7 @@ Unity GameManager
 ---
 
 ### 소스 저장소
-    * [Unity GameManager](https://github.com/Meerkat-GMD/Unity_GameManager)
+* [Unity GameManager](https://github.com/Meerkat-GMD/Unity_GameManager)
 
 ### Preview
 * 준비중
