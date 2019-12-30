@@ -67,7 +67,7 @@ Unity GameManager
 ---
 
 ### 소스 저장소
-<!-- * [2019BIC](https://github.com/Meerkat-GMD/2019BIC) -->
+    * [Unity GameManager](https://github.com/Meerkat-GMD/Unity_GameManager)
 
 ### Preview
 * 준비중
