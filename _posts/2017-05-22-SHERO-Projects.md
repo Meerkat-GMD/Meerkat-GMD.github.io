@@ -29,6 +29,7 @@ VR 환경의 UGC 기반 대화형 AI 언어학습 시스템
 
 ### 팀 규모 및 역할
 * 6인 개발
+
 나재흠 : Unity Client 프로그래밍
 
 강@@ : Unity Client 프로그래밍
