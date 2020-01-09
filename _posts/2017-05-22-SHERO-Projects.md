@@ -30,10 +30,15 @@ VR 환경의 UGC 기반 대화형 AI 언어학습 시스템
 ### 팀 규모 및 역할
 * 6인 개발
 나재흠 : Unity Client 프로그래밍
+
 강@@ : Unity Client 프로그래밍
+
 박@@ : Voice RSS 설정 및 Google API.AI 연동
+
 김@@ : Google API.AI 기본 데이터 제작
+
 김@@ : Google API.AI 기본 데이터 제작
+
 안@@ : 프로그램 디자인
 
 ### 기술 스택 
