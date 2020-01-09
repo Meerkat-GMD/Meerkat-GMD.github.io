@@ -28,19 +28,11 @@ WelcomeBackTotheDungeon
 * 목표
 
 	WelcomeBackTotheDungeon 게임 개발
-<<<<<<< HEAD
 
 * 내용
 
 	WelcomeBackTotheDungeon 보드게임을 프로그램화 시켜서 2~4인용 게임으로 만들어보자
-
-=======
     
-* 내용
-
-	WelcomeBackTotheDungeon 보드게임을 프로그램화 시켜서 2~4인용 게임으로 만들어보자
-    
->>>>>>> c3db3219cb0e2ef40d5d8a5be1ff1b0b118bb4d0
 * 게임 규칙
 
 	<a href = "https://blog.naver.com/PostView.nhn?blogId=daduc12&logNo=221264403415&proxyReferer=https%3A%2F%2Fwww.google.com%2F"> Rule </a>
