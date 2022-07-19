@@ -6,7 +6,7 @@ date: 2019-12-30
 comments: false
 ---
 
-[나재흠 이력서.pdf](https://github.com/MORM-Master/Save-As/files/9132762/default.pdf)
+![나재흠 이력서_page-0001](https://user-images.githubusercontent.com/18138559/179685964-07f98f94-4e5d-47c9-ae7e-35a4387feae4.jpg)
 
 <!--
 ## 설계를 통해 체계적으로 개발하는 프로그래머
