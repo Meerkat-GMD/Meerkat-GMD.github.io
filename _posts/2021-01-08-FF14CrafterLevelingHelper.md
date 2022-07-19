@@ -36,24 +36,20 @@ FF14 Crafter Leveling Helper
 
 ### 나의 역할 및 기술 스택
 #### Android Studio / Java / Python3  
-* 
+* FF14 REST API 문서에는 Java에 대한 정보가 없기 때문에 Java로 개발하기 위한 방법을 찾아보면서 Python으로 프로토타입을 만들어 요청 보낼 URL을 완성하고 테스트.
+* 안드로이드 레이아웃 구성, 안드로이드 앱 개발
+* 필요한 데이터를 선언하고 요청받은 raw 데이터를 필요한 부분만 재가공
 
 
 ### 이 프로젝트를 통해 배운점
-*  전체적인 시스템을 계획하고 개발을 하는 법을 배움  
-*  확장성 있게 개발하면서 새로운 시스템이 추가 될 때마다 쉽게 추가 할 수 있게함.  
-*  유니티 코드와 게임 데이터 코드를 분리함으로서 디버깅을 좀 더 용이하게 함.  
-*  게임 데이터를 외부로 뺌으로서 데이터가 수정되어도 컴파일이 필요없게 하고 기획자가 데이터를 수정하기 쉽게 함.  
-*  혼자 프로그래머를 하다보니 모든 것을 개발할려 하기보단 외부 라이브러리를 적극적으로 활용하고 프로젝트에 맞춰 더욱 발전 시키는 것이 좋다는 것을 깨달음.  
-*  좋은 개발 툴은 개발 속도를 빠르게 해준다는 것을 깨달음.
-*  도트의 경우 카메라의 화면 사이즈와 도트 사이즈가 맞지 않을 경우 깨진다는 것을 깨달음.
-*  게임내에 게임 환경을 바꾸는 재구축 시스템을 개발하면서 게임 플레이에 있어 UX가 엄청 중요하다는 것을 깨달음.
-
-### 
+*  REST API의 사용법을 알게 되었음.
+*  Document에서는 정보가 너무 적어 개발자 discord에 들어가 정보를 얻으면서 문서의 중요성과 다른 개발자들과의 소통의 중요성을 깨닫게 됨.
 
 ---
 
 ### 소스 저장소
 * [FF14_Crafter_Leveling_Helper](https://github.com/Meerkat-GMD/FF14_Crafter_Leveling_Helper)
+* [FF14Helper 발표자료.pdf](https://github.com/Meerkat-GMD/FF14_Crafter_Leveling_Helper/files/9140412/FF14Helper.pdf)
 
 ### Preview
+![image](https://user-images.githubusercontent.com/18138559/179735139-a3b62eb5-cfb0-4d7a-9e3c-5e07d2fa20c0.png)
