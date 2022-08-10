@@ -2,7 +2,7 @@
 layout: post
 title:  "(개인) FF14 Crafter Leveling Helper"
 date:   2021-12-19
-excerpt: "퍼즐 액션 게임 개발"
+excerpt: "FF14 REST API를 활용한 레벨링 계산기"
 project: true
 tag:
 - jekyll 
