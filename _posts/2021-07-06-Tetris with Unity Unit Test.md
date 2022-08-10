@@ -12,7 +12,7 @@ tag:
 - theme
 comments: true
 ---
-<center><b>Tetris</b></center>with Unity TestFramework
+<center><b>Tetris with Unity TestFramework</b></center>
      
 ### 프로젝트 제목
 Tetris with Unity TestFramework  
